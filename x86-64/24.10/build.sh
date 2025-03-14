@@ -44,16 +44,24 @@ PACKAGES="$PACKAGES script-utils"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 # 自定义包
 PACKAGES="$PACKAGES luci-proto-wireguard"
-PACKAGES="$PACKAGES luci-app-wechatpush"
-PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
+PACKAGES="$PACKAGES luci-app-wol"
+PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
 PACKAGES="$PACKAGES luci-app-adblock"
 PACKAGES="$PACKAGES luci-i18n-adblock-zh-cn"
 PACKAGES="$PACKAGES luci-app-ddns"
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES luci-app-advanced-reboot"
 PACKAGES="$PACKAGES luci-i18n-advanced-reboot-zh-cn"
-PACKAGES="$PACKAGES luci-app-wol"
-PACKAGES="$PACKAGES luci-app-wol-zh-cn"
+PACKAGES="$PACKAGES luci-app-ipsec-vpnd"
+PACKAGES="$PACKAGES luci-app-ipsec-vpnd-zh-cn"
+PACKAGES="$PACKAGES luci-app-upnp"
+PACKAGES="$PACKAGES luci-app-upnp-zh-cn"
+PACKAGES="$PACKAGES luci-app-qos"
+PACKAGES="$PACKAGES luci-app-qos-zh-cn"
+PACKAGES="$PACKAGES luci-app-openvpn"
+PACKAGES="$PACKAGES luci-app-openvpn-zh-cn"
+	
+ 
 
 
 # 判断是否需要编译 Docker 插件
