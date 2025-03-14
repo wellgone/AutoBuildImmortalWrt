@@ -45,7 +45,6 @@ PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 # 自定义包
 PACKAGES="$PACKAGES luci-proto-wireguard"
 PACKAGES="$PACKAGES luci-app-wechatpush"
-PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
 PACKAGES="$PACKAGES luci-app-adblock"
 PACKAGES="$PACKAGES luci-i18n-adblock-zh-cn"
 PACKAGES="$PACKAGES luci-app-ddns"
