@@ -54,8 +54,6 @@ PACKAGES="$PACKAGES luci-app-ddns"
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES luci-app-advanced-reboot"
 PACKAGES="$PACKAGES luci-i18n-advanced-reboot-zh-cn"
-PACKAGES="$PACKAGES luci-app-upnp"
-PACKAGES="$PACKAGES luci-app-upnp-zh-cn"
 PACKAGES="$PACKAGES luci-app-qos"
 PACKAGES="$PACKAGES luci-app-qos-zh-cn"
 	
