@@ -52,6 +52,19 @@ PACKAGES="$PACKAGES luci-app-ddns"
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES luci-app-advanced-reboot"
 PACKAGES="$PACKAGES luci-i18n-advanced-reboot-zh-cn"
+PACKAGES="$PACKAGES luci-app-wol"
+PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
+PACKAGES="$PACKAGES luci-app-frps"
+PACKAGES="$PACKAGES luci-app-frps-zh-cn"
+PACKAGES="$PACKAGES luci-app-ipsec-vpnd"
+PACKAGES="$PACKAGES luci-app-ipsec-vpnd-zh-cn"
+PACKAGES="$PACKAGES luci-app-upnp"
+PACKAGES="$PACKAGES luci-app-upnp-zh-cn"
+PACKAGES="$PACKAGES luci-app-openvpn"
+PACKAGES="$PACKAGES luci-app-openvpn-zh-cn"
+PACKAGES="$PACKAGES luci-app-qos"
+PACKAGES="$PACKAGES luci-app-qos-zh-cn"
+
 
 # 判断是否需要编译 Docker 插件
 if [ "$INCLUDE_DOCKER" = "yes" ]; then
