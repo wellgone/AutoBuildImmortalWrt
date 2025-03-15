@@ -48,8 +48,6 @@ PACKAGES="$PACKAGES luci-app-wechatpush"
 PACKAGES="$PACKAGES luci-app-wechatpush-zh-cn"
 PACKAGES="$PACKAGES luci-app-ddns"
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
-PACKAGES="$PACKAGES luci-app-advanced-reboot"
-PACKAGES="$PACKAGES luci-i18n-advanced-reboot-zh-cn"
 	
  
 
