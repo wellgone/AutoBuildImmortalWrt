@@ -52,6 +52,8 @@ PACKAGES="$PACKAGES luci-app-wol"
 PACKAGES="$PACKAGES luci-app-wol-zh-cn"
 PACKAGES="$PACKAGES luci-app-qos"
 PACKAGES="$PACKAGES luci-app-qos-zh-cn"
+PACKAGES="$PACKAGES luci-app-vnstat2"
+PACKAGES="$PACKAGES luci-app-vnstat2-zh-cn"
  
 
 # 判断是否需要编译 Docker 插件
