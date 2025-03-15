@@ -50,8 +50,8 @@ PACKAGES="$PACKAGES luci-app-advanced-reboot"
 PACKAGES="$PACKAGES luci-i18n-advanced-reboot-zh-cn"
 PACKAGES="$PACKAGES luci-app-wechatpush"
 PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
-PACKAGES="$PACKAGES luci-app-pbr"
-PACKAGES="$PACKAGES luci-app-pbr-zh-cn"
+PACKAGES="$PACKAGES luci-app-vnstat2"
+PACKAGES="$PACKAGES luci-app-vnstat2-zh-cn"
  
 
 

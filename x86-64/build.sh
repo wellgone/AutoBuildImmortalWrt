@@ -48,8 +48,8 @@ PACKAGES="$PACKAGES luci-app-advanced-reboot"
 PACKAGES="$PACKAGES luci-i18n-advanced-reboot-zh-cn"
 PACKAGES="$PACKAGES luci-app-wechatpush"
 PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
-PACKAGES="$PACKAGES luci-app-pbr"
-PACKAGES="$PACKAGES luci-app-pbr-zh-cn"
+PACKAGES="$PACKAGES luci-app-vnstat2"
+PACKAGES="$PACKAGES luci-app-vnstat2-zh-cn"
 
 # 判断是否需要编译 Docker 插件
 if [ "$INCLUDE_DOCKER" = "yes" ]; then
