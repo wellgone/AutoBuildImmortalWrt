@@ -46,8 +46,6 @@ PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-proto-wireguard"
 PACKAGES="$PACKAGES luci-app-wechatpush"
 PACKAGES="$PACKAGES luci-app-wechatpush-zh-cn"
-PACKAGES="$PACKAGES luci-app-ddns"
-PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 	
  
 
